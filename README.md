@@ -2,7 +2,7 @@
 
 Rocket chat 분석 중 [공식 문서](https://docs.rocket.chat/deploy/deploy-rocket.chat/deploy-with-docker-and-docker-compose)를 통해 다운로드 받은 compose.yml이 실행되지 않는 이슈 발생
 
-MongoDB 레플리카 호스트 네임 불일치 이슈, env 파일을 식별하지 못하는 이슈를 해결한 실행환경을 업로드함
+MongoDB 레플리카 호스트 네임 불일치 이슈, env 파일을 식별하지 못하는 이슈를 해결한 실행 환경을 업로드함
 
 
 ### 실행 방법
